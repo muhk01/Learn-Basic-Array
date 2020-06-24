@@ -1,1 +1,1 @@
-# Learn-Basic-Array
+# Learn basic python array necessary for Data Science fundamentals
